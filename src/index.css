@@ -35,9 +35,18 @@ body>div {
   justify-content: center;
 }
 
-.red {
-  background-color: #b05f6d;
+.coral {
+  background-color: #F88379;
   color: white;
+}
+
+.red {
+  background-color: #ff0000;
+  color: white;
+}
+
+.orange {
+    background-color: rgb(255, 153, 0);
 }
 
 .blue {
@@ -45,7 +54,58 @@ body>div {
   color: white;
 }
 
-.home{
-  background-color: #ffb546af;
+.yellow {
+  background-color: #ffd000d7;
+  color: rgb(0, 0, 0);
 }
 
+.corn {
+  background-color: #ffe600;
+}
+
+.umber {
+  background-color: #8A3324;
+  color: white;
+}
+
+.home{
+background-image:
+    linear-gradient(to bottom,
+      red ,
+      orange,
+      yellow,
+      green ,
+      blue, 
+      purple);
+  font-size: 60px;
+}
+
+.caribbeanGreen {
+  background-color: #00CC99;
+}
+
+.celadon { 
+  background-color: #a0f5a4;
+}
+
+.olive {
+  background-color: #556B2F;
+  color: white;
+}
+.cobalt {
+  background-color: #2E2D88;
+  color: white;
+}
+
+.cyan {
+  background-color: #27d0ff;
+}
+
+.nadeshiko {
+  background-color: #F6ADC6;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
